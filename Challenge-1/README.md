@@ -4,19 +4,19 @@
 
 Terraform is an open-source infrastructure as a code (IAC) tool that allows to create, manage & deploy the production-ready environment. Terraform codifies cloud APIs into declarative configuration files. Terraform can manage both existing service providers and custom in-house solutions.
 
-![1](https://github.com/DhruvinSoni30/Terraform-AWS-3tier-Architecture/blob/main/1.png)
 
-In this tutorial, I will deploy a three-tier application in AWS using Terraform.
 
-![2](https://github.com/DhruvinSoni30/Terraform-AWS-3tier-Architecture/blob/main/2.png)
+In this challenge , I will deploy a three-tier application in AWS using Terraform.
+
+
 
 ### Prerequisites:
 
-* Basic knowledge of AWS & Terraform
+* Knowledge of AWS & Terraform
 * AWS account
 * AWS Access & Secret Key
 
-> In this project, I have used some variables also that I will discuss later in this article.
+> In this challenge, I have used some variables also that I will discuss later in this article.
 
 **Step 1:- Create a file for the VPC**
 
